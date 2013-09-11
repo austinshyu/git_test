@@ -3,7 +3,7 @@ def first():
 
 def salutations():
     print "Hi? This is Michelle and Deborah"
-    return 8
+    return 8+1
 
 def second():
     print "andrew!"
