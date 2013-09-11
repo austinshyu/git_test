@@ -16,6 +16,7 @@ def main():
     first()
     second()
     salutations()
+    last_but_not_least()
 
 if __name__ == "__main__":
     main()
