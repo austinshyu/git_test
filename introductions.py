@@ -11,4 +11,8 @@ def second():
 def main():
     first()
     second()
+    salutations()
+
+if __name__ == "__main__":
+    main()
 
