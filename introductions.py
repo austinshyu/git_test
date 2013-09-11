@@ -6,4 +6,5 @@ def salutations():
     return 8
 
 def second():
-    print "Andrew!"
+    print "andrew!"
+
