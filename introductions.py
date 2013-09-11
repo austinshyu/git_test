@@ -3,3 +3,7 @@ def first():
 def second():
     print "andrew!"
 
+def main():
+    first()
+    second()
+
